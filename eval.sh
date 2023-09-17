@@ -1,0 +1,2 @@
+## Evaluation of our MDProp's peformance from our provided parameters. The parameters are currently not included in the file because of the file size constraints. We can provide them on requst. 
+python main_eval.py --eval_params cub200_s2sd --dataset cub200 --source_path /path/to/data
