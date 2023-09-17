@@ -1,1 +1,1 @@
-Currently the parameter files are omitted to meet CMT's file size constraint. We can provide them if requested. However the performance can still be confirmed by training.
+Parameter files were omitted to meet CMT's file size constraint. The performance can still be confirmed by training.
