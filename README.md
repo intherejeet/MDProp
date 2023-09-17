@@ -1,4 +1,4 @@
-# MDProp: Official Implementation of ACML 2023 Paper titled "Advancing Deep Metric Learning With Adversarial Robustness"
+## MDProp: Official Implementation of ACML 2023 Paper: "Advancing Deep Metric Learning With Adversarial Robustness"
 
 ### Table of Contents
 1. [Requirements](#requirements)
